@@ -1,0 +1,16 @@
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.exe
+C:\Users\josep\Documents\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.deps.json
+C:\Users\josep\Documents\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+C:\Users\josep\Documents\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+C:\Users\josep\Documents\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.dll
+C:\Users\josep\Documents\Code\Chapter02\Numbers\bin\Debug\net5.0\ref\Numbers.dll
+C:\Users\josep\Documents\Code\Chapter02\Numbers\bin\Debug\net5.0\Numbers.pdb
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.dll
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\ref\Numbers.dll
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.pdb
+C:\Users\josep\Documents\Code\Chapter02\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\josep\Documents\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.exe
+C:\Users\josep\Documents\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.deps.json
+C:\Users\josep\Documents\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.json
+C:\Users\josep\Documents\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.dev.json
+C:\Users\josep\Documents\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.dll
+C:\Users\josep\Documents\Code\Chapter02\Arguments\bin\Debug\net5.0\ref\Arguments.dll
+C:\Users\josep\Documents\Code\Chapter02\Arguments\bin\Debug\net5.0\Arguments.pdb
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfoInputs.cache
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfo.cs
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.dll
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\ref\Arguments.dll
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.pdb
+C:\Users\josep\Documents\Code\Chapter02\Arguments\obj\Debug\net5.0\Arguments.genruntimeconfig.cache
